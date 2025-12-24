@@ -27,7 +27,7 @@ nav{
 #nav-right{
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 20px;
 }
 h1{
     position: relative;
